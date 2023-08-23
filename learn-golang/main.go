@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	fmt.Println("welcome Saleh Yemen")
+	fmt.Println("welcome Saleh")
 
 }
