@@ -17,6 +17,6 @@ func fayez() {
 }
 
 func saleh() {
-	fmt.Println("Hello From Saleh")
+	ft.Println("Hello From Saleh")
 
 }
