@@ -7,6 +7,8 @@ import (
 func main() {
 
 	fmt.Println("welcome Saleh")
+	fayez()
+	saleh()
 
 }
 
